@@ -1,0 +1,72 @@
+10-2-2016            Bitcoin Classic is released             
+23-2-2016            Bitcoin Core version 0.12.0 is released    
+11-6-2016            Bitcoin market capitalization reaches US$ 10 billion          
+15-4-2016            Bitcoin Core version 0.12.1 is released    
+02-8-2016            The Bitfinex hack is first announced         
+23-8-2016            Bitcoin Core version 0.13.0 is released    
+27-10-2016           Bitcoin Core version 0.13.1 is released    
+17-11-2016           The Internal Revenue Service sends a request (a John Doe summons) to Coinbase "asking for the records of all customers who bought virtual currency from the company from 2013 to 2015"         
+01-1-2017            As of the start of 2017, thirteen US states have "clearly defined positions and/or regulations in regards to the blockchain and digital currency industry" 
+03-1-2017            Bitcoin Core version 0.13.2 is released    
+27-2-2017            Coinbase announces that it will stop serving customers in Hawaii due to a regulatory change that requires the company to "hold cash reserves equal to any digital currency-denominated funds held for its customers"                
+08-3-2017            Bitcoin Core version 0.14.0 is released    
+10-3-2017            The United States Securities and Exchange Commission rejects the Winklevoss twins' application for an exchange-traded fund tied to the price of Bitcoin         
+10-4-2017            The cryptocurrency exchange Poloniex announces it is suspending services in Washington State  
+01-4-2017            A Japanese law that brings bitcoin exchanges under anti-money laundering and know your customer rules as well as recognizing bitcoin as a form of prepaid payment instrument comes into effect    
+22-4-2017            Bitcoin Core version 0.14.1 is released    
+13-6-2017            Gemini, the digital currency exchange started by the Winklevoss twins, begins operating in Washington State after it is granted a license to do so     
+17-6-2017            Bitcoin Core version 0.14.2 is released    
+30-6-2017            The People's Bank of China establishes a research institute dedicated to digital currencies              
+01-7-2017            Binance is founded         
+20-7-2017            Bitcoin Improvement Proposal 91, to trigger Segregated Witness (SegWit) activation, is locked in 
+01-8-2017            A hard fork of bitcoin known as Bitcoin Cash occurs on this day   
+02-8-2017            Bitcoin cash is already the third most valuable cryptocurrency –with a market value of US$7.6 billion, after Bitcoin (US$44.4 billion MV) and Ethereum (US$21 billion MV)         
+04-8-2017            Bitcoin reaches record high valuation of US$3,000 per coin           
+13-8-2017            Bitcoin breaks the US$4,000 mark             
+15-8-2017            Blockstream, a Bitcoin software company, announces the launch of its Blockstream Satellite network, aimed at broadcasting bitcoin to people just about anywhere in the world irrespective of their internet connection — for free. The launch is expected to make the cryptocurrency more accessible to almost anyone, even in places where data costs are high and living standards and incomes are low       
+17-8-2017            Australia announces plan to strengthen its anti-money laundering laws and regulate digital currencies such as Bitcoin, following a similar move by Japan             
+02-9-2017            Bitcoin's price rises above US$5,000 for the first time      
+08-9-2017            Russia’s Finance Minister Anton Siluanov announces plan to regulate the circulation of bitcoin and other crypto-currencies involving Russian citizens and firms          
+14-9-2017            Bitcoin Core version 0.15.0 is released    
+19-9-2017            Bitcoin Core version 0.15.0.1 is released 
+29-9-2017            Japan's Financial Services Agency (FSA) issues operating licenses to 11 bitcoin exchanges 
+11-10-2017          The Central Bank of Russia announces it would support moves to block websites dealing in bitcoin and other virtual currencies, amidst declarations of President Vladimir Putin denouncing the cryptocurrency as risky and used by criminals              
+16-10-2017          IBM and a network of banks begin using digital currency and blockchain software to move money across borders throughout the South Pacific         
+20-10-2017          Bitcoin breaks above US$6,000   
+20-10-2017          Bitcoin market capitalization reaches US$100 billion         
+24-10-2017          Upbit launches in South Korea    
+02-11-2017          Bitcoin surpasses the US$7,000 mark for the first time    
+11-11-2017          Bitcoin Core version 0.15.1 is released    
+12-11-2017          Bitcoin Gold is launched as the second project to fork away from the Bitcoin blockchain to create a new coin in the year       
+29-11-2017          Bitcoin value reaches US$10,000 for the first time, a more than 10-fold increase in value over the course of the year            
+01-12-2017          Unites States regulator Commodity Futures Trading Commission (CFTC) announces it would let the Chicago Mercantile Exchange and Chicago Board Options Exchange trade in Bitcoin-related financial contracts. The news would render Bitcoin valuation rise further               
+07-12-2017          The 16 millionth bitcoin is mined, with 5 million remaining            
+17-12-2017          CoinDesk Bitcoin price index reaches an all-time high of $19,783.21           
+28-12-2017          South Korea’s government announces imposition of additional measures to regulate speculation in cryptocurrency trading within the country. This would unleash a negative impact on Bitcoin's valuation across the globe     
+12-1-2018            Amidst rumors that South Korea could be preparing to ban trading in cryptocurrency, the price of bitcoin depreciates by 12 percent             
+16-1-2018            Bitconnect announces it would shut down its cryptocurrency exchange and lending operation after regulators from Texas and North Carolina issue a cease and desist order against it as it was suspected of being fraudulent          
+17-1-2018            Bitcoin price falls to as low as $9,199.59, half its peak price, falling almost 19 percent within 24 hours, after Chinese authorities say they will strengthen a ban put in place late in 2017 to prevent its citizens from using cryptocurrency exchanges           
+26-1-2018            Coincheck, Japan's largest cryptocurrency OTC market, is hacked. US$530 million of the NEM are stolen, and the loss is the largest ever by an incident of theft, which causes Coincheck to indefinitely suspend trading                
+31-1-2018            Within its semiconductor business called Foundry, Samsung starts mass producing bitcoin mining chips in partnership with an unidentified Chinese mining company            
+31-1-2018            Facebook bans people entirely from advertising bitcoin and other cryptocurrencies amid fears they are used for fraud            
+19-2-2018            The Israeli government confirms that it would treat bitcoin and other cryptocurrencies as a kind of property instead of currency, making it therefore taxable as such               
+06-2-2018            Payment processors Visa and Mastercard re-classifiy bitcoin purchases viewing them as “cash advances,” a category that brings an additional 5% fee to those virtual currency purchases on credit cards              
+26-2-2018            Bitcoin Core version 0.16.0 is released    
+27-2-2018            JPMorgan Chase Admits Cryptocurrency Is a ‘Risk’ to its Business for the First Time
+14-3-2018            Google announces ban of all adverts for cryptocurrencies, including bitcoin and initial coin offerings (ICOs), as it seeks to “tackle emerging threats”. Bitcoin valuation briefly falls below US$8,000 after the announcement                
+26-4-2018            The 17 millionth of 21 million bitcoins is mined   
+21-5-2018            Banco Masventas, a bank in Argentina, starts using Bitcoin for cross-border payments. [284]         
+15-6-2018            Bitcoin Core version 0.16.1 is released    
+22-6-2018            The Financial Services Agency (FSA), Japan’s top financial regulator, issues six new business improvement orders. The orders to Bitflyer, Tech Bureau, Bitpoint Japan, Btcbox, Bitbank, and Quoine follow the agency’s first rejection of a crypto exchange registration on June 7            
+29-7-2018            Bitcoin Core version 0.16.2 is released    
+28-9-2018            Bitcoin Core versions 0.15.2 and 0.14.3 are released        
+20-9-2018            `A Bitcoin Cash developer discovers the vulnerability CVE-2018-17144 in the Bitcoin Core software that could allow an attacker to crash vulnerable Bitcoin Core nodes and exceed the 21 million coin limit   
+14-9-2018            Hackers steal 6.7 billion yen (US$60 million) in Bitcoin and two other cryptocurrencies from Japan-based cryptocurrency exchange Zaif        
+09-10-2018          Bitcoin Core version 0.17.0.1 is released 
+15-11-2018          A hard fork chain split of Bitcoin Cash occurs between two rival factions, Bitcoin Cash and Bitcoin SV                
+25-12-2018          Bitcoin Core version 0.17.1 is released    
+02-5-2019            Bitcoin Core version 0.18.0 is released    
+09-8-2019            Bitcoin Core version 0.18.1 is released    
+18-10-2019          The 18 millionth bitcoin is mined              
+24-10-2019          Bitcoin Core version 0.19.0.1 is released 
+23-8-2017            Crypto wallet Exodus adds Aragon and EOS in latest release         
