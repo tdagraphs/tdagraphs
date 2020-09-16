@@ -14,7 +14,7 @@ Since our proposed methodology was tested on two different dynamic networks, Eth
 3) PersistenceDiagrams: All persistence diagrams obtained via Clique Community Persistence.
 4) Competitors: The competitor's source code used to contrast our methodology.
 
-![Image 3](dim.png)
+![Image 3](dimTad.png)
 *Figure: Stacked persistence diagram (SPD) of a three layer network*
 
 Next there is short description on each folder and file shared in this package.
